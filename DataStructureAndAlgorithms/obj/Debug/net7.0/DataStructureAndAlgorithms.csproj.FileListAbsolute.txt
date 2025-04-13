@@ -1,0 +1,14 @@
+D:\repos\DSA\DSA\DataStructureAndAlgorithms\bin\Debug\net7.0\DataStructureAndAlgorithms.exe
+D:\repos\DSA\DSA\DataStructureAndAlgorithms\bin\Debug\net7.0\DataStructureAndAlgorithms.deps.json
+D:\repos\DSA\DSA\DataStructureAndAlgorithms\bin\Debug\net7.0\DataStructureAndAlgorithms.runtimeconfig.json
+D:\repos\DSA\DSA\DataStructureAndAlgorithms\bin\Debug\net7.0\DataStructureAndAlgorithms.dll
+D:\repos\DSA\DSA\DataStructureAndAlgorithms\bin\Debug\net7.0\DataStructureAndAlgorithms.pdb
+D:\repos\DSA\DSA\DataStructureAndAlgorithms\obj\Debug\net7.0\DataStructureAndAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\DSA\DSA\DataStructureAndAlgorithms\obj\Debug\net7.0\DataStructureAndAlgorithms.AssemblyInfoInputs.cache
+D:\repos\DSA\DSA\DataStructureAndAlgorithms\obj\Debug\net7.0\DataStructureAndAlgorithms.AssemblyInfo.cs
+D:\repos\DSA\DSA\DataStructureAndAlgorithms\obj\Debug\net7.0\DataStructureAndAlgorithms.csproj.CoreCompileInputs.cache
+D:\repos\DSA\DSA\DataStructureAndAlgorithms\obj\Debug\net7.0\DataStructureAndAlgorithms.dll
+D:\repos\DSA\DSA\DataStructureAndAlgorithms\obj\Debug\net7.0\refint\DataStructureAndAlgorithms.dll
+D:\repos\DSA\DSA\DataStructureAndAlgorithms\obj\Debug\net7.0\DataStructureAndAlgorithms.pdb
+D:\repos\DSA\DSA\DataStructureAndAlgorithms\obj\Debug\net7.0\DataStructureAndAlgorithms.genruntimeconfig.cache
+D:\repos\DSA\DSA\DataStructureAndAlgorithms\obj\Debug\net7.0\ref\DataStructureAndAlgorithms.dll
