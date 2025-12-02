@@ -1,0 +1,15 @@
+/workspaces/DSA/DataStructureAndAlgorithms/bin/Debug/net8.0/DataStructureAndAlgorithms
+/workspaces/DSA/DataStructureAndAlgorithms/bin/Debug/net8.0/DataStructureAndAlgorithms.deps.json
+/workspaces/DSA/DataStructureAndAlgorithms/bin/Debug/net8.0/DataStructureAndAlgorithms.runtimeconfig.json
+/workspaces/DSA/DataStructureAndAlgorithms/bin/Debug/net8.0/DataStructureAndAlgorithms.dll
+/workspaces/DSA/DataStructureAndAlgorithms/bin/Debug/net8.0/DataStructureAndAlgorithms.pdb
+/workspaces/DSA/DataStructureAndAlgorithms/obj/Debug/net8.0/DataStructureAndAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/DSA/DataStructureAndAlgorithms/obj/Debug/net8.0/DataStructureAndAlgorithms.AssemblyInfoInputs.cache
+/workspaces/DSA/DataStructureAndAlgorithms/obj/Debug/net8.0/DataStructureAndAlgorithms.AssemblyInfo.cs
+/workspaces/DSA/DataStructureAndAlgorithms/obj/Debug/net8.0/DataStructureAndAlgorithms.csproj.CoreCompileInputs.cache
+/workspaces/DSA/DataStructureAndAlgorithms/obj/Debug/net8.0/DataStructureAndAlgorithms.sourcelink.json
+/workspaces/DSA/DataStructureAndAlgorithms/obj/Debug/net8.0/DataStructureAndAlgorithms.dll
+/workspaces/DSA/DataStructureAndAlgorithms/obj/Debug/net8.0/refint/DataStructureAndAlgorithms.dll
+/workspaces/DSA/DataStructureAndAlgorithms/obj/Debug/net8.0/DataStructureAndAlgorithms.pdb
+/workspaces/DSA/DataStructureAndAlgorithms/obj/Debug/net8.0/DataStructureAndAlgorithms.genruntimeconfig.cache
+/workspaces/DSA/DataStructureAndAlgorithms/obj/Debug/net8.0/ref/DataStructureAndAlgorithms.dll
